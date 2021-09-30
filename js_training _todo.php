@@ -11,7 +11,7 @@ $(document).on('click','.close', function(){
    $(this).closest('li').remove();
 }); 
 </script> 
-<title>js training s</title>
+<title>js training</title>
 </head>
 <body>  
 <div>
