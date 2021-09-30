@@ -11,9 +11,9 @@ $(document).on('click','.close', function(){
    $(this).closest('li').remove();
 }); 
 </script> 
-<title>js training</title>
+<title>js training s</title>
 </head>
-<body> 
+<body>  
 <div>
   <h2>JQ To Do List</h2>
   <input type="text" id="newTodo">
